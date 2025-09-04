@@ -27,4 +27,7 @@ To run the project locally:
 ```bash
 npm install
 npm test
+<img width="553" height="317" alt="image" src="https://github.com/user-attachments/assets/2a542cce-f2de-4998-82eb-6ef833f14ac6" />
+<img width="554" height="374" alt="image" src="https://github.com/user-attachments/assets/a6da5138-b792-4947-b902-0b53393341e0" />
+<img width="554" height="245" alt="image" src="https://github.com/user-attachments/assets/1da8f441-224e-4f47-952f-0a554c2d2dc3" />
 
